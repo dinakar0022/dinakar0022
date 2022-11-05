@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dinakar0022
 - 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Dash
+- 🌱 I’m currently learning python,dash
 - 💞️ I’m looking to collaborate on DS projects.
 - 📫 How to reach me Mail:saidinakarallu818@gmail.com
 
